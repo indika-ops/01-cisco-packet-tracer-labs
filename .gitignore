@@ -1,0 +1,17 @@
+# System Files
+Thumbs.db
+db.properties
+.DS_Store
+
+# Environments & Secrets
+.env
+*.pem
+*.pkcs12
+*.key
+secret.txt
+
+# Python & IDE logs
+__pycache__/
+*.pyc
+.vscode/
+.idea/
